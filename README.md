@@ -1,8 +1,6 @@
 # real time bus tracker system
 In this project, we will transfer the location information coming with the GPS module to another LORA module with the LORA module and send it to the web server with the Wi-Fi module and track the location information of the bus in real time.
 
-In this project, we will transfer the location information coming with the GPS module to another LORA module with the LORA module and send it to the web server with the Wi-Fi module and track the location information of the bus in real time.
-
 ## Modules used in the project:
 - [e32-433t20d lora](https://shop.fixaj.com/e32-433t20d-lora-modulu-e32-433t20dc-sx1278-433-mhz)
 - [4.0dBi SMA 433 MHz Anten](https://shop.fixaj.com/40dbi-sma-433-mhz-anten-tx433-jkd-20p)
@@ -10,3 +8,4 @@ In this project, we will transfer the location information coming with the GPS m
 - [nodemcu v3 esp8266 esp 12e](https://www.robotistan.com/nodemcu-lolin-esp8266-gelistirme-karti-usb-chip-ch340)
 
 
+<img src="image/receiverCircuit.png" width="500">
