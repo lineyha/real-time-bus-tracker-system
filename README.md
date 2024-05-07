@@ -1,4 +1,4 @@
-# real time bus tracker system
+# real time bus tracking system
 In this project, we will transfer the location information coming with the GPS module to another LORA module with the LORA module and send it to the web server with the Wi-Fi module and track the location information of the bus in real time.
 
 ## Modules used in the project:
