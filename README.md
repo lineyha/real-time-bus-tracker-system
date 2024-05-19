@@ -20,6 +20,14 @@ create sql table to save longitude and latitude values coming from the gps modul
 
 <img src="image/sqlTable.png" width="500">
 
+connect your sql table with php
+
+<img src="image/sqlConnection.png" width="500">
+
+
+
+
+
 
 
 
