@@ -28,6 +28,11 @@ handle post request with php coming from the receiver circuit
 
 <img src="image/handlePostRequest.png" width="500">
 
+get API Key for showing the point on map from Google Cloud
+
+<img src="image/googleMapAPIKey.png" width="500">
+
+
 
 
 
