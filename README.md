@@ -34,7 +34,7 @@ create API for coming location information
 
 location informations can be showed like that 
 
-<img src="image/CreateAPIforGPSLocation.png" width="500">
+<img src="image/locationAPI.png" width="500">
 
 
 
