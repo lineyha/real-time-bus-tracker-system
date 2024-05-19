@@ -16,5 +16,11 @@ create the transmitter and receiver circuits
 
 upload receiver and transmitter code according to "receiverArduinoCode" and "transmitterArduinoCode"
 
+create sql table to save longitude and latitude values coming from the gps module
+
+<img src="image/sqlTable.png" width="500">
+
+
+
 
 
