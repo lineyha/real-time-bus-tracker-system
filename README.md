@@ -55,6 +55,10 @@ initialize map based on your preference
 
 <img src="image/initailizeMap.png" width="500">
 
+and we can finally track our bus 
+
+<img src="image/show.gif"/>
+
 
 
 
