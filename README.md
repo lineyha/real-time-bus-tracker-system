@@ -32,6 +32,11 @@ create API for coming location information
 
 <img src="image/CreateAPIforGPSLocation.png" width="500">
 
+location informations can be showed like that 
+
+<img src="image/CreateAPIforGPSLocation.png" width="500">
+
+
 
 get API Key for showing the point on map from Google Cloud
 
