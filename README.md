@@ -32,6 +32,10 @@ get API Key for showing the point on map from Google Cloud
 
 <img src="image/googleMapAPIKey.png" width="500">
 
+add the key on  html src tag
+
+<img src="image/keyLocation.png" width="500">
+
 
 
 
