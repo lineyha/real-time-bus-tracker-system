@@ -46,6 +46,11 @@ add the key on  html src tag
 
 <img src="image/keyLocation.png" width="500">
 
+fetch location using jQuery
+
+<img src="image/fetchLocation.png" width="500">
+
+
 
 
 
