@@ -20,13 +20,18 @@ create sql table to save longitude and latitude values coming from the gps modul
 
 <img src="image/sqlTable.png" width="500">
 
-connect your sql table with php
+connect your sql table  with php
 
 <img src="image/sqlConnection.png" width="500">
 
 handle post request with php coming from the receiver circuit
 
 <img src="image/handlePostRequest.png" width="500">
+
+create API for coming location information
+
+<img src="image/connectDBandCreateAPIforGPSLocation.png" width="500">
+
 
 get API Key for showing the point on map from Google Cloud
 
@@ -35,6 +40,8 @@ get API Key for showing the point on map from Google Cloud
 add the key on  html src tag
 
 <img src="image/keyLocation.png" width="500">
+
+
 
 
 
