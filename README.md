@@ -30,7 +30,7 @@ handle post request with php coming from the receiver circuit
 
 create API for coming location information
 
-<img src="image/connectDBandCreateAPIforGPSLocation.png" width="500">
+<img src="image/CreateAPIforGPSLocation.png" width="500">
 
 
 get API Key for showing the point on map from Google Cloud
