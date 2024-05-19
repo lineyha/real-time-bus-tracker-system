@@ -24,6 +24,12 @@ connect your sql table with php
 
 <img src="image/sqlConnection.png" width="500">
 
+handle post request with php coming from the receiver circuit
+
+<img src="image/handlePostRequest.png" width="500">
+
+
+
 
 
 
