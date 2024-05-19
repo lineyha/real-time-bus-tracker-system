@@ -50,6 +50,10 @@ fetch location using jQuery
 
 <img src="image/fetchLocation.png" width="500">
 
+initialize map based on your preference
+
+<img src="image/initailizeMap.png" width="500">
+
 
 
 
