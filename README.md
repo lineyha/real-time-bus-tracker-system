@@ -7,5 +7,14 @@ In this project, we will transfer the location information coming with the GPS m
 - [gy-neo6mv2 gps](https://www.robotistan.com/gy-neo6mv2-gps-modulu-ucus-kontrol-sistem-gpsi)
 - [nodemcu v3 esp8266 esp 12e](https://www.robotistan.com/nodemcu-lolin-esp8266-gelistirme-karti-usb-chip-ch340)
 
+create the transmitter and receiver circuits
+# transmitter circuit
+<img src="image/transmitterCircuit.png" width="500">
 
+# receiver circuit
 <img src="image/receiverCircuit.png" width="500">
+
+upload receiver and transmitter code according to "receiverArduinoCode" and "transmitterArduinoCode"
+
+
+
